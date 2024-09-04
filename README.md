@@ -6,4 +6,3 @@
 4. git pull
 5. 작업후 commit, push 
 
-Kim 브랜치 추가했습니다
